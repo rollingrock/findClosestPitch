@@ -1,0 +1,2 @@
+C:\Users\rolli\source\repos\findClosestPitch\x64\Debug\findClosestPitch.exe
+C:\Users\rolli\source\repos\findClosestPitch\x64\Debug\findClosestPitch.pdb
